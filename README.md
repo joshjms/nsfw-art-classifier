@@ -28,7 +28,9 @@ For implementations on using the model, you can refer to `test_model.ipynb`. The
 ### Demo
 #### SFW
 <img src="https://user-images.githubusercontent.com/83194022/216754762-f753e4b1-36c2-44ff-840b-512066ea19b6.png" width="200" height="auto">
+
 #### NSFW
+
 No. I can't publish.
 
 > Created by Joshua James in 2023
