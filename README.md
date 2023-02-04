@@ -26,7 +26,9 @@ model = load_model(os.path.join('models/peko.tflite/'))
 For implementations on using the model, you can refer to `test_model.ipynb`. There are 3 models so far in `/models/[*].tflite` but you can just use `peko.tflite`. 
 
 ### Demo
-![image](https://user-images.githubusercontent.com/83194022/216754762-f753e4b1-36c2-44ff-840b-512066ea19b6.png)
-
+#### SFW
+<img src="https://user-images.githubusercontent.com/83194022/216754762-f753e4b1-36c2-44ff-840b-512066ea19b6.png" width="200" height="auto">
+#### NSFW
+No. I can't publish.
 
 > Created by Joshua James in 2023
